@@ -12,8 +12,8 @@
 1. (Optional) Create a virtual environment:
    ```bash
    python -m venv venv
-   source venv/bin/activate   # Linux/macOS
-   venv\Scripts\activate    # Windows (PowerShell)
+   source venv/bin/activate   
+   venv\Scripts\activate    
    ```
 
 2. Install dependencies:
